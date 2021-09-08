@@ -36,8 +36,8 @@ import javax.annotation.Nullable;
 public class Register extends AppCompatActivity {
 
     FirebaseAuth fAuth;
-    String phoneNumber = "+917451221244";
-    String otpCode = "123456";
+    String phoneNumber = "+913032808900";
+    String otpCode = "303280";
     String verificationId;
     EditText phone,optEnter;
     Button next;
